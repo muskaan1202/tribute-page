@@ -1,4 +1,4 @@
-# Tribute Page Repository
+# edit by lassi
 
 Welcome to the GitHub repository for my Tribute Page! 🌟 This repository holds all the code and assets that make up a simple and elegant tribute page dedicated to a remarkable individual.
 
